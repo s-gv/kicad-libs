@@ -1,5 +1,5 @@
 *
-!libs/custom.lib
-!libs/TI.lib
-!footprints/custom.mod
+!libs/custom_gv.lib
+!libs/TI_gv.lib
+!footprints/custom_gv.mod
 
