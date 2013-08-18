@@ -3,18 +3,6 @@ KiCAD Libraries
 
 Some components for which I created custom kicad lib parts.
 
-Note to myself
---------------
-
-To create a new library part, do these.
-
-- Open EESchema
-- Open Library editor (a few buttons to the left of annotation tool with a pen in the icon)
-- Create new part
-- Create the part
-- Select working library/save part to new lib
-- Save part to lib
-
 Parts
 =====
 
@@ -32,7 +20,28 @@ TI
 Custom
 ------
 
-- 2 pin power connector
-- 3 pin UART connector
+- 2 pin power connector - Note: For footprint, use pin_array_2x1 (pad dia 1.6mm, hole size 1.05mm). DO NOT use SIL-2 which is too small
+- 3 pin UART connector - Note: For footprint, use pin_array_3x1 (pad dia 1.6mm, hole size 1.05mm). DO NOT use SIL-3 which is too small
 - CC2540 Bluegiga Breakout
 - CCDebugger port
+
+Footprints
+==========
+
+Custom
+-------
+
+- 30 pin CC2540 bluegiga breakout board
+- 10 pin CCDebugger
+
+Notes to myself
+--------------
+
+To create a new library part, do these. (Similar steps for creating footprints)
+
+- Open EESchema
+- Open Library editor (a few buttons to the left of annotation tool with a pen in the icon)
+- Create new part
+- Create the part
+- Select working library/save part to new lib
+- Save part to lib
