@@ -34,4 +34,5 @@ Custom
 
 - 2 pin power connector
 - 3 pin UART connector
-
+- CC2540 Bluegiga Breakout
+- CCDebugger port
