@@ -45,3 +45,9 @@ To create a new library part, do these. (Similar steps for creating footprints)
 - Create the part
 - Select working library/save part to new lib
 - Save part to lib
+
+Online quick generators
+
+- Lib: http://kicad.rohrbacher.net/quicklib.php
+- Footprint: http://kicad.rohrbacher.net/quickmod.php
+
