@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  8/18/2013 10:22:12 PM
+PCBNEW-LibModule-V1  Monday 19 August 2013 05:03:40 PM IST
 # encoding utf-8
 Units mm
 $INDEX
 CC2540_BRK
 CCD
+VIRTEX5
 $EndINDEX
 $MODULE CC2540_BRK
 Po 0 0 0 15 5210F976 00000000 ~~
@@ -316,4 +317,1361 @@ Ne 0 ""
 Po 1.27 5.08
 $EndPAD
 $EndMODULE CCD
+$MODULE VIRTEX5
+Po 0 0 0 15 5211FAE2 00000000 ~~
+Li VIRTEX5
+Sc 0
+AR 
+Op 0 0 0
+T0 -6.35 -38.1 1 1 0 0.15 N V 21 N "VIRTEX5"
+T1 7.62 -38.1 1 1 0 0.15 N V 21 N "VAL**"
+DS -8.89 -36.83 10.16 -36.83 0.15 21
+DS 10.16 -36.83 10.16 44.45 0.15 21
+DS 10.16 44.45 -8.89 44.45 0.15 21
+DS -8.89 44.45 -8.89 -36.83 0.15 21
+$PAD
+Sh "55" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 43.18
+$EndPAD
+$PAD
+Sh "54" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 40.64
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 38.1
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 35.56
+$EndPAD
+$PAD
+Sh "53" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 33.02
+$EndPAD
+$PAD
+Sh "52" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 30.48
+$EndPAD
+$PAD
+Sh "51" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 27.94
+$EndPAD
+$PAD
+Sh "50" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 25.4
+$EndPAD
+$PAD
+Sh "49" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 22.86
+$EndPAD
+$PAD
+Sh "48" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 20.32
+$EndPAD
+$PAD
+Sh "47" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 17.78
+$EndPAD
+$PAD
+Sh "46" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 15.24
+$EndPAD
+$PAD
+Sh "45" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 12.7
+$EndPAD
+$PAD
+Sh "44" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 10.16
+$EndPAD
+$PAD
+Sh "43" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 7.62
+$EndPAD
+$PAD
+Sh "42" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "41" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 2.54
+$EndPAD
+$PAD
+Sh "40" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$PAD
+Sh "39" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -2.54
+$EndPAD
+$PAD
+Sh "38" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -5.08
+$EndPAD
+$PAD
+Sh "37" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -7.62
+$EndPAD
+$PAD
+Sh "36" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -10.16
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -12.7
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -22.86
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -25.4
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -35.56
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -27.94
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -30.48
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -33.02
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -35.56
+$EndPAD
+$PAD
+Sh "32" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 43.18
+$EndPAD
+$PAD
+Sh "31" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 40.64
+$EndPAD
+$PAD
+Sh "30" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 38.1
+$EndPAD
+$PAD
+Sh "29" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 35.56
+$EndPAD
+$PAD
+Sh "28" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 33.02
+$EndPAD
+$PAD
+Sh "27" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 30.48
+$EndPAD
+$PAD
+Sh "26" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 27.94
+$EndPAD
+$PAD
+Sh "25" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 25.4
+$EndPAD
+$PAD
+Sh "24" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 22.86
+$EndPAD
+$PAD
+Sh "23" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 20.32
+$EndPAD
+$PAD
+Sh "22" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 17.78
+$EndPAD
+$PAD
+Sh "21" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 15.24
+$EndPAD
+$PAD
+Sh "20" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 12.7
+$EndPAD
+$PAD
+Sh "19" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 10.16
+$EndPAD
+$PAD
+Sh "18" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 7.62
+$EndPAD
+$PAD
+Sh "17" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$PAD
+Sh "16" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 2.54
+$EndPAD
+$PAD
+Sh "15" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 0
+$EndPAD
+$PAD
+Sh "14" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -2.54
+$EndPAD
+$PAD
+Sh "13" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -5.08
+$EndPAD
+$PAD
+Sh "12" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -7.62
+$EndPAD
+$PAD
+Sh "11" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -10.16
+$EndPAD
+$PAD
+Sh "10" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -12.7
+$EndPAD
+$PAD
+Sh "9" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -15.24
+$EndPAD
+$PAD
+Sh "8" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -17.78
+$EndPAD
+$PAD
+Sh "7" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -20.32
+$EndPAD
+$PAD
+Sh "6" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -22.86
+$EndPAD
+$PAD
+Sh "5" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -25.4
+$EndPAD
+$PAD
+Sh "4" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -27.94
+$EndPAD
+$PAD
+Sh "3" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -30.48
+$EndPAD
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -33.02
+$EndPAD
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -35.56
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -25.4
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -22.86
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -20.32
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -17.78
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 2.54
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 0
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -2.54
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -5.08
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -15.24
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -12.7
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -10.16
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -7.62
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 33.02
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 30.48
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 27.94
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 25.4
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 35.56
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 38.1
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 40.64
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 43.18
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 22.86
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 20.32
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 17.78
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 15.24
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 7.62
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 10.16
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 12.7
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -33.02
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -27.94
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -30.48
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -20.32
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -15.24
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -17.78
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -17.78
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -15.24
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -20.32
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -30.48
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -27.94
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -33.02
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 12.7
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 10.16
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 7.62
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 15.24
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 17.78
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 20.32
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 22.86
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 43.18
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 40.64
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 38.1
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 35.56
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 25.4
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 27.94
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 30.48
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 33.02
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -7.62
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -10.16
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -12.7
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -15.24
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -2.54
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 2.54
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -17.78
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -20.32
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -22.86
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -25.4
+$EndPAD
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -35.56
+$EndPAD
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -33.02
+$EndPAD
+$PAD
+Sh "3" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -30.48
+$EndPAD
+$PAD
+Sh "4" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -27.94
+$EndPAD
+$PAD
+Sh "5" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -25.4
+$EndPAD
+$PAD
+Sh "6" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -22.86
+$EndPAD
+$PAD
+Sh "7" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -20.32
+$EndPAD
+$PAD
+Sh "8" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -17.78
+$EndPAD
+$PAD
+Sh "9" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -15.24
+$EndPAD
+$PAD
+Sh "10" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -12.7
+$EndPAD
+$PAD
+Sh "11" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -10.16
+$EndPAD
+$PAD
+Sh "12" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -7.62
+$EndPAD
+$PAD
+Sh "13" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -5.08
+$EndPAD
+$PAD
+Sh "14" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -2.54
+$EndPAD
+$PAD
+Sh "15" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "16" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 2.54
+$EndPAD
+$PAD
+Sh "17" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 5.08
+$EndPAD
+$PAD
+Sh "18" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 7.62
+$EndPAD
+$PAD
+Sh "19" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 10.16
+$EndPAD
+$PAD
+Sh "20" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 12.7
+$EndPAD
+$PAD
+Sh "21" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 15.24
+$EndPAD
+$PAD
+Sh "22" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 17.78
+$EndPAD
+$PAD
+Sh "23" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 20.32
+$EndPAD
+$PAD
+Sh "24" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 22.86
+$EndPAD
+$PAD
+Sh "25" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 25.4
+$EndPAD
+$PAD
+Sh "26" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 27.94
+$EndPAD
+$PAD
+Sh "27" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 30.48
+$EndPAD
+$PAD
+Sh "28" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 33.02
+$EndPAD
+$PAD
+Sh "29" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 35.56
+$EndPAD
+$PAD
+Sh "30" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 38.1
+$EndPAD
+$PAD
+Sh "31" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 40.64
+$EndPAD
+$PAD
+Sh "32" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 43.18
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -35.56
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -33.02
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -30.48
+$EndPAD
+$PAD
+Sh "33" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 -27.94
+$EndPAD
+$PAD
+Sh "34" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -35.56
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -25.4
+$EndPAD
+$PAD
+Sh "35" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -22.86
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -12.7
+$EndPAD
+$PAD
+Sh "36" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -10.16
+$EndPAD
+$PAD
+Sh "37" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -7.62
+$EndPAD
+$PAD
+Sh "38" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -5.08
+$EndPAD
+$PAD
+Sh "39" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 -2.54
+$EndPAD
+$PAD
+Sh "40" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "41" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 2.54
+$EndPAD
+$PAD
+Sh "42" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 5.08
+$EndPAD
+$PAD
+Sh "43" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 7.62
+$EndPAD
+$PAD
+Sh "44" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 10.16
+$EndPAD
+$PAD
+Sh "45" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 12.7
+$EndPAD
+$PAD
+Sh "46" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 15.24
+$EndPAD
+$PAD
+Sh "47" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 17.78
+$EndPAD
+$PAD
+Sh "48" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 20.32
+$EndPAD
+$PAD
+Sh "49" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 22.86
+$EndPAD
+$PAD
+Sh "50" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 25.4
+$EndPAD
+$PAD
+Sh "51" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 27.94
+$EndPAD
+$PAD
+Sh "52" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 30.48
+$EndPAD
+$PAD
+Sh "53" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 33.02
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 35.56
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 38.1
+$EndPAD
+$PAD
+Sh "54" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 40.64
+$EndPAD
+$PAD
+Sh "55" C 1.6 1.6 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 43.18
+$EndPAD
+$EndMODULE VIRTEX5
 $EndLIBRARY
