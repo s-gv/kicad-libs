@@ -24,6 +24,7 @@ Custom
 - 3 pin UART connector - Note: For footprint, use pin_array_3x1 (pad dia 1.6mm, hole size 1.05mm). DO NOT use SIL-3 which is too small
 - CC2540 Bluegiga Breakout
 - CCDebugger port
+- ML506 Virtex-5 Board header(HDR1)
 
 Footprints
 ==========
@@ -33,6 +34,7 @@ Custom
 
 - 30 pin CC2540 bluegiga breakout board
 - 10 pin CCDebugger
+- ML506 Virtex-5 Board header(HDR1)
 
 Notes to myself
 --------------
