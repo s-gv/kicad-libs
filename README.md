@@ -16,6 +16,7 @@ TI
 - TPL0501-100
 - TLV3202
 - OPA2314
+- ADS1294
 
 Custom
 ------
@@ -25,6 +26,7 @@ Custom
 - CC2540 Bluegiga Breakout
 - CCDebugger port
 - ML506 Virtex-5 Board header(HDR1)
+- 3 pin ECG probe (SMD)
 
 Footprints
 ==========
@@ -35,6 +37,7 @@ Custom
 - 30 pin CC2540 bluegiga breakout board
 - 10 pin CCDebugger
 - ML506 Virtex-5 Board header(HDR1)
+- 10 pin 1 row connector(PIN_ARRAY_10x1)
 
 Notes to myself
 --------------
