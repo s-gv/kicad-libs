@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Friday 08 November 2013 12:13:55 PM IST
+PCBNEW-LibModule-V1  Friday 08 November 2013 12:28:00 PM IST
 # encoding utf-8
 Units mm
 $INDEX
@@ -325,7 +325,7 @@ Po 1.27 5.08
 $EndPAD
 $EndMODULE CCD
 $MODULE ECG
-Po 0 0 0 15 527C807F 00000000 ~~
+Po 0 0 0 15 527C8B71 00000000 ~~
 Li ECG
 Sc 0
 AR 
@@ -333,18 +333,18 @@ Op 0 0 0
 T0 0 -3.81 1 1 0 0.15 N V 21 N "ECG"
 T1 5.08 -3.81 1 1 0 0.15 N V 21 N "VAL**"
 $PAD
-Sh "1" R 15 30 0 0 0
+Sh "1" R 15 20 0 0 0
 Dr 0 0 0
 At SMD N 00440001
 Ne 0 ""
-Po -13.335 1.27
+Po -17.78 -3.81
 $EndPAD
 $PAD
-Sh "2" R 15 30 0 0 0
+Sh "2" R 15 20 0 0 0
 Dr 0 0 0
 At SMD N 00440001
 Ne 0 ""
-Po 11.43 1.27
+Po 17.78 -3.81
 $EndPAD
 $PAD
 Sh "3" R 30 10 0 0 0
