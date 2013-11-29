@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Thursday 28 November 2013 05:51:49 PM IST
+PCBNEW-LibModule-V1  Friday 29 November 2013 12:15:43 PM IST
 # encoding utf-8
 Units mm
 $INDEX
@@ -356,7 +356,7 @@ Po -1.27 -24.765
 $EndPAD
 $EndMODULE ECG
 $MODULE ECG_2
-Po 0 0 0 15 52973552 00000000 ~~
+Po 0 0 0 15 52983814 00000000 ~~
 Li ECG_2
 Sc 0
 AR 
@@ -370,14 +370,14 @@ DS -27.94 12.7 -27.94 -12.7 0.15 21
 $PAD
 Sh "1" R 20 20 0 0 0
 Dr 0 0 0
-At SMD N 00448000
+At SMD N 00440001
 Ne 0 ""
 Po -15.24 0
 $EndPAD
 $PAD
 Sh "2" R 20 20 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At SMD N 00880001
 Ne 0 ""
 Po 15.24 0
 $EndPAD
