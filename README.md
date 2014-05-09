@@ -17,7 +17,7 @@ TI
 - TLV3202
 - OPA2314
 - ADS1294
-- LMP7702
+- LMP7702, LMP7701
 
 Custom
 ------
