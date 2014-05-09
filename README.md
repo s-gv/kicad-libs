@@ -28,6 +28,7 @@ Custom
 - CCDebugger port
 - ML506 Virtex-5 Board header(HDR1)
 - 3 pin ECG probe (SMD)
+- Ring type ECG electrode (ECGANT)
 
 Footprints
 ==========
@@ -39,6 +40,7 @@ Custom
 - 10 pin CCDebugger
 - ML506 Virtex-5 Board header(HDR1)
 - 10 pin 1 row connector(PIN_ARRAY_10x1)
+- Ring type ECG electrode (ECGANT)
 
 Notes to myself
 --------------
