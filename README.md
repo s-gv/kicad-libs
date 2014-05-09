@@ -41,6 +41,7 @@ Custom
 - ML506 Virtex-5 Board header(HDR1)
 - 10 pin 1 row connector(PIN_ARRAY_10x1)
 - Ring type ECG electrode (ECGANT)
+- SMD Single in line connectors (2, 3, 4 pins)
 
 Notes to myself
 --------------
